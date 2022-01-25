@@ -22,6 +22,7 @@ header {
   display: flex;
   justify-content: flex-end;
   flex-wrap: wrap;
+  margin: 10px;
 }
 .header-menuItem {
   list-style: none;
