@@ -18,12 +18,22 @@ header {
   height: 40px;
   margin-left: 20px;
 }
-
+.header-menuList {
+  display: flex;
+  justify-content: flex-end;
+  flex-wrap: wrap;
+}
 .header-menuItem {
   list-style: none;
+  margin-right: 10px;
+  padding: 10px;
 }
 
 .header-menuItem a {
   text-decoration: none;
   color: white;
+}
+
+.checked a {
+  color: #ad9766;
 }
