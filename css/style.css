@@ -2,13 +2,28 @@
   margin: 0;
   box-sizing: border-box;
 }
-
+body {
+  background-image: linear-gradient(to bottom, black, gray);
+  background-repeat: no-repeat;
+  height: 100vh;
+}
 header {
   display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .header-logo img {
   width: 40px;
   height: 40px;
   margin-left: 20px;
+}
+
+.header-menuItem {
+  list-style: none;
+}
+
+.header-menuItem a {
+  text-decoration: none;
+  color: white;
 }
