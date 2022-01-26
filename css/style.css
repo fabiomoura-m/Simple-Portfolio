@@ -48,6 +48,10 @@ main {
   margin-top: 50px;
 }
 
+.description {
+  max-width: 400px;
+}
+
 .description h1 {
   font-variant: small-caps;
   font-size: 3.5em;
@@ -57,8 +61,13 @@ main {
 
 .description h2 {
   font-weight: normal;
+  margin-bottom: 30px;
 }
 
 .description-marked {
   color: #ad9766;
+}
+
+.description p {
+  line-height: 1.5em;
 }
