@@ -6,6 +6,8 @@ body {
   background-image: linear-gradient(to bottom, black, gray);
   background-repeat: no-repeat;
   height: 100vh;
+  border: 10px solid #ad9766;
+  border-right: 20px solid #ad9766;
 }
 header {
   display: flex;
@@ -37,4 +39,17 @@ header {
 
 .checked a {
   color: #ad9766;
+}
+
+main {
+  max-width: 900px;
+  margin: 0 auto;
+  color: white;
+  margin-top: 50px;
+}
+
+.description h1 {
+  font-variant: small-caps;
+  font-size: 3.5em;
+  font-weight: normal;
 }
