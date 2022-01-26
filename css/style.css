@@ -48,6 +48,12 @@ main {
   margin-top: 50px;
 }
 
+.container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
 .description {
   max-width: 400px;
 }
@@ -70,4 +76,11 @@ main {
 
 .description p {
   line-height: 1.5em;
+}
+.image-perfil {
+  box-shadow: 3px -6px 5px rgb(0 0 0 / 45%);
+}
+.image-perfil img {
+  max-width: 330px;
+  height: 370px;
 }
