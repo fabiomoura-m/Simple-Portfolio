@@ -52,4 +52,13 @@ main {
   font-variant: small-caps;
   font-size: 3.5em;
   font-weight: normal;
+  margin-bottom: 30px;
+}
+
+.description h2 {
+  font-weight: normal;
+}
+
+.description-marked {
+  color: #ad9766;
 }
