@@ -1,4 +1,4 @@
 # Simple-Portfolio
 Simple portfolio page developed with html and css.
 
-![portfolio](https://user-images.githubusercontent.com/93055468/151088230-94fc1ddb-770a-4631-85c4-f0a813881ca3.png)
+![portfolio](https://user-images.githubusercontent.com/93055468/151088984-0a26ff96-ebd6-4ffb-baab-6ef8da0af0ab.png)
