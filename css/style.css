@@ -108,3 +108,10 @@ main {
 .contact-curriculum a button:hover {
   background-color: #887650;
 }
+
+.contact-icons a img {
+  width: 40px;
+  margin: 30px 10px;
+  background-color: white;
+  border-radius: 2px;
+}
