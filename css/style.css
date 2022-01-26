@@ -115,3 +115,7 @@ main {
   background-color: white;
   border-radius: 2px;
 }
+
+.contact-icons a img:hover {
+  background-color: #ad9766;
+}
